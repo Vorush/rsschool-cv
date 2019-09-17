@@ -15,12 +15,12 @@
 6. * Experience:
         * All my experience of codding i got solving examples from books, and on the lectures in university.
 7. * Education:
-        * 1. Books: 
-                 1. S.Prata C++ Primer Plus 
-                 2. B.Eckel Thinking in Java 4th Edition   
-        * 1. Other:
-                 1. htmlacademy/codeacademy, htmlbook
-                 2. learn.javascript (in progress)                                
+        *  Books: 
+             * S.Prata C++ Primer Plus 
+             * B.Eckel Thinking in Java 4th Edition   
+        *  Other:
+             * htmlacademy/codeacademy, htmlbook
+             * learn.javascript (in progress)                                
 8. * English:
         * I studied English at school and university. Now i learn English on my own. I have little speak practice.
       
