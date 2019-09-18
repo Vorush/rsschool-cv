@@ -5,7 +5,7 @@
      * Phone: +375447236514
      * Telegram: @Vorushilo
 3. * Summary: 
-        * I want to become a front-end developer, because i tried to learn other ways of development and learning them was not so interesting. Not so long ago i tried to study web development and i liked it. I want to progress in this direction.
+        * I want to become a front-end developer. Earlier i tried to learn other ways of development, but learning them was not so interesting. Not so long ago i tried to study web development and i liked it. I want to progress in this direction.
 4. * Skills:
      * C++: basics
      * Java: basics
@@ -22,5 +22,5 @@
              * htmlacademy/codeacademy, htmlbook
              * learn.javascript (in progress)                                
 8. * English:
-        * I studied English at school and university. Now i learn English on my own. I have little speak practice.
-      
+        * I learned English at school and university. Now i learn English on my own. I have little speak practice.
+                            
