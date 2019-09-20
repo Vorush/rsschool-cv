@@ -1,10 +1,22 @@
 body {
     width: 1024px;
     font-family: "Helvetica", "Arial", sans-serif;   
+    background-color:#ccddff;
 }
 main{
     text-align: center;
 }
+
+section {
+    margin: 0 20px;
+    font-family: "Montserrat", "Arial", sans-serif; 
+}
+
+.box-cont{
+    text-align: left;
+    margin-left: 35%;
+}
+
 
 .page-title{
     font-weight: bold;
@@ -14,4 +26,9 @@ main{
 }
 .photo-container {
     text-align: center;
+  }
+
+  .section-title{
+    font-family: "Montserrat", "Arial", sans-serif; 
+
   }
